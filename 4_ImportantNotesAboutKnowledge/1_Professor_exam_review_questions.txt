@@ -1,0 +1,41 @@
+Please find attached a list of review questions.
+
+Think at them as
+"what is/are...."
+"how it works...."
+"what is the basic physical principle...."
+"what are the main applications...."
+"which method is best suited for ....."
+
+Regards
+Giancarlo Bernasconi
+-------------------------------------------------------
+
+Elastic media and elastic waves
+- homogeneous/non homogeneous, isotropic/anisotropic medium
+- P- and S-waves: velocity and polarization
+- surface waves
+- acoustic media
+- interface between 2 media: scatter coefficients, 
+- wave amplitude attenuation
+- measured variables, output display
+
+Electrical methods
+- principles 
+- equipment
+- how to build a pseudosection
+- apparent and true resistivity
+- measured variables, output display
+
+Electromagnetic methods
+- EM parameters
+- low and high frequency measurements
+- applications
+- equipment (ground conductivity meter, metal detector)
+- measured variables, output display
+
+-GPR
+- principles 
+- applications
+- link between antenna central frequency, penetration depth, resolution
+- measured variables, output display
