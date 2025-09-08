@@ -5,10 +5,12 @@ It is designed to help students **review theoretical concepts, understand practi
 
 ---
 ## 🎓 My words
-In this course, the Professor is so kind and professional, he knows detials and will ask you lots of questions about the 3 homeworks.
-You need to read all the matiral, finish and complete all the homeworks, download the preference and material from WeBeep: https://webeep.polimi.it/course/view.php?id=17613, after this, you need to remember all the notes I gave you.
-And then you will know the core of the course, and what the professor wants you to learn and talk in oral exam.
-Good luck, the professor is kind, so don't worry.
+
+- First of all, I need to say thanks to **Professor BERNASCONI GIANCARLO**, he supports all of this. The course number is **055555 - GEOPHYSICAL IMAGING (BERNASCONI GIANCARLO) {055556 - GEOPHYSICAL AND RADAR IMAGING [sezione A]** form **Politecnico di Milano**.  
+- In this course, the Professor is so kind and professional, he knows detials and will ask you lots of questions about the 3 homeworks:
+  - You need to read all the matiral, finish and complete all the homeworks, download the preference and material from WeBeep: https://webeep.polimi.it/course/view.php?id=17613, after this, you need to remember all the notes I gave you.  
+- And then you will know the core of the course, and what the professor wants you to learn and talk in oral exam.  
+Good luck, the professor is kind, so don't worry.  
 ---
 ## 📂 Repository Structure  
 
