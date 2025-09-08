@@ -6,21 +6,21 @@ It is designed to help students **review theoretical concepts, understand practi
 ---
 ## 🎓 My words
 In this course, the Professor is so kind and professional, he knows detials and will ask you lots of questions about the 3 homeworks.
-You need to read all the matiral, finish and complete all the homeworks, after this, you need to remember all the notes I gave you.
+You need to read all the matiral, finish and complete all the homeworks, download the preference and material from WeBeep: https://webeep.polimi.it/course/view.php?id=17613, after this, you need to remember all the notes I gave you.
 And then you will know the core of the course, and what the professor wants you to learn and talk in oral exam.
 Good luck, the professor is kind, so don't worry.
 ---
 ## 📂 Repository Structure  
 
-- **`1_original_homework1/`**  
-  Contains the first homework assignment and MATLAB codes. Focus:  
+- **[1_original_homework1](./1_original_homework1)**
+  - Contains the first homework assignment and MATLAB codes. Focus:  
   - Acoustic wave equation finite-difference simulations  
   - Elastic wave propagation in homogeneous and layered media  
   - Refraction & reflection concepts, **you can know from a youtube video, it is so clear:https://www.youtube.com/watch?v=qnLYWPgnJC0&t=27s**, this is an important part and I really recommend you 
  
   - **You need to know the matlab codes, and know what the outcome shows.**
 
-- **`2_homework2/`**  
+- **[2_homework2](./2_homework2)**  
   Contains the second homework assignment and related materials. Focus:  
   - Electrical resistivity methods  
   - Apparent vs. true resistivity  
@@ -28,15 +28,15 @@ Good luck, the professor is kind, so don't worry.
  
   - **You need to use a software from Professor and learn from the reference PDF to design your own electrical resistivity model, and then you can explain all results and concepts from your homework PDF.**
 
-- **`3_homework3/`**  
+- **[3_homework3](./3_homework3)**  
   Contains the third homework assignment. Focus:  
-  - Ground Penetrating Radar (GPR)  
+  - Ground Penetrating Radar (GPR), from wekipedia: https://en.wikipedia.org/wiki/Ground-penetrating_radar.
   - Antenna frequency, resolution vs. penetration depth  
   - Data acquisition and radargram interpretation
  
   - **You need to read and know the homework, what is the GPR, which product we use: https://idsgeoradar.com/products/ground-penetrating-radar/opera-xr , and know the balance of deepth and penetration with frequency, know what the effect dose it have if there is metal, know what happens if there is water.**
 
-- **`4_ImportantNotesAboutKnowledge/`**  
+- **[4_ImportantNotesAboutKnowledge](./4_ImportantNotesAboutKnowledge)**  
   A collection of summarized notes and theory essential for the exam, covering:  
   - Elastic media, P- and S-waves, surface waves  
   - Seismic imaging principles (refraction, reflection, tomography)  
